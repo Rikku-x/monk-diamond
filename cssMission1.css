@@ -1,0 +1,53 @@
+body {
+  background-color: cornsilk;
+}
+
+.title {
+  text-align: center;
+  color: green;
+  font-size: 250%;
+  padding: -20px;
+}
+
+.container1 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.column1 {
+  flex: 50%;
+  justify-content: center;
+}
+.container2 {
+  display: flex;
+}
+.column2 {
+  flex: 50%;
+}
+
+.text1 {
+  padding: 20px;
+  color: green;
+  font-size: 150%;
+  font-family: "Lucida Console", Courier, monospace;
+}
+
+.pic1 {
+  display: flex;
+  justify-content: center;
+}
+.wrapper {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.text2 {
+  padding: 20px;
+  color: green;
+  font-size: 150%;
+  font-family: "Lucida Console", Courier, monospace;
+}
+.pic2 {
+  display: flex;
+  justify-content: center;
+}
